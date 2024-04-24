@@ -15,7 +15,9 @@ This repository was compiled in order to present more digestible information abo
 - Presents information objectively to allow viewers to make their own observations.
 - Understandable to the general public without any specific background information necessary.
 
-  ![alt-text]("T0S3T-total-confirmed-deaths-caused-by-covid-19-by-providence-state-in-mainland-china-updated-02-14-2020-nbsp-.png")
+  ![alt-text](""C:\Users\Chloe Andrews\Downloads\T0S3T-total-confirmed-deaths-caused-by-covid-19-by-providence-state-in-mainland-china-updated-02-14-2020-nbsp-.png"")
+
+  
 
 Unordered List 
 - what's here
