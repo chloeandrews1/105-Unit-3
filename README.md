@@ -15,21 +15,10 @@ This repository was compiled in order to present more digestible information abo
 - Presents information objectively to allow viewers to make their own observations.
 - Understandable to the general public without any specific background information necessary.
 
-  ![alt-text](""C:\Users\Chloe Andrews\Downloads\T0S3T-total-confirmed-deaths-caused-by-covid-19-by-providence-state-in-mainland-china-updated-02-14-2020-nbsp-.png"")
+  ![alt-text]("T0S3T-total-confirmed-deaths-caused-by-covid-19-by-providence-state-in-mainland-china-updated-02-14-2020-nbsp-.png")
 
+  ![alt-text]("LHLGO-map-of-confirmed-deaths-by-covid-19-in-mainland-china-providences-states-updated-02-14-2020-nbsp-.png")
+
+  ![alt-text]("n1c9Z-symbol-map-of-confirmed-covid-19-cases-in-mainland-china-providences-states.png")
   
-
-Unordered List 
-- what's here
-- where it came from
-- what you can do with it
-
-
-  # What's here
-
-  ## Where it came from
-
-  ## What you can do with it 
-
-
-  (Hyperlink to Data Source)((https://github.com/CSSEGISandData/COVID-19/blob/master/archived_data/archived_daily_case_updates/02-14-2020_1123.csv))
+  
