@@ -1,14 +1,14 @@
-## COVID-19 Confirmed Cases from Mainland China Providences/States
+# COVID-19 Confirmed Cases from Mainland China Providences/States
 
 This data set shows confirmed cases of the COVID-19 pandemic across Mainland China's Providences/States. Updated 02/14/2020.  
 
-# Source Data
+## Source Data
 This data was from a public repository via Johns Hopkins Writing School of Engineering public archives. Specifically, the data set that was the most recently updated from 02/14/2020 was used to compose the data for this repository. 
 
 - (Johns Hopkins COVID-19 Archived Data) ((https://github.com/CSSEGISandData/COVID-19))
 - (02/14/2020 Updated Data) ((https://github.com/CSSEGISandData/COVID-19/blob/master/archived_data/archived_daily_case_updates/02-14-2020_1123.csv))
 
-# Repository Data
+## Repository Data
 This repository was compiled in order to present more digestible information about COVID-19 Confirmed Cases in 2020: 
 
 - provides viewers with comparisons between Mainland Chinese Providences/States Confirmed Cases of COVID-19.
