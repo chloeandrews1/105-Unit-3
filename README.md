@@ -21,5 +21,3 @@ This repository was compiled to present more digestible information about COVID-
 
   ![alt-text]("n1c9Z-symbol-map-of-confirmed-covid-19-cases-in-mainland-china-providences-states.png")
   
-  
-![alt text](https://github.com/[chloeandrews1]/[105-Unit-3]/blob/[main]/Symbol Map of Confirmed Cases?raw=true)
